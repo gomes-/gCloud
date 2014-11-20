@@ -1,4 +1,4 @@
 gcloud
 ======
 
-Highly Scalabe Geo Reduntant Cloud Service
+Highly Scalabe Geo Redundant Cloud Services
