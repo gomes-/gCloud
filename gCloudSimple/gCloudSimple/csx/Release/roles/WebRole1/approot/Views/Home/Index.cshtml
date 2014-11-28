@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+
+    <p class="lead">Hello @ViewBag.CustomerIP,</p>
+    <h1>
+        From @ViewBag.ServerLocation
+    </h1>
+
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Your IP</h2>
+        <p>
+            @ViewBag.CustomerIP
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Server IP</h2>
+        <p>@ViewBag.ServerIP</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Server Location</h2>
+        <p>@ViewBag.ServerLocation</p>
+    </div>
+</div>

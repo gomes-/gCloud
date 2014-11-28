@@ -1,0 +1,2 @@
+C:\Project\Demo\gCloudSimple\gCloudSimple\bin\Debug\ServiceConfiguration.cscfg
+C:\Project\Demo\gCloudSimple\gCloudSimple\bin\Debug\ServiceDefinition.csdef
